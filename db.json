@@ -1,24 +1,27 @@
 {
-  "scores": [
+    "scores": 
     {
-      "user_id": 1,
-      "registro": 5
-    },
-    {
-      "user_id": 2,
-      "registro": 10
-    },
-    {
-      "user_id": 3,
-      "registro": 3
-    },
-    {
-      "user_id": 4,
-      "registro": 11
-    },
-    {
-      "user_id": 5,
-      "registro": 18
+        "scores":   [
+      {
+        "user_id": 1,
+        "score": 5
+      },
+      {
+        "user_id":2,
+        "score": 2
+      },
+      {
+        "user_id":3,
+        "score": 4
+      },
+      {
+        "user_id":4,
+        "score": 14
+      },
+      {
+        "user_id":5,
+        "score": 10
+      }
+        ] 
     }
-  ]
-}
+ }
