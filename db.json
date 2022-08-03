@@ -1,0 +1,24 @@
+{
+  "scores": [
+    {
+      "user_id": 1,
+      "registro": 5
+    },
+    {
+      "user_id": 2,
+      "registro": 10
+    },
+    {
+      "user_id": 3,
+      "registro": 3
+    },
+    {
+      "user_id": 4,
+      "registro": 11
+    },
+    {
+      "user_id": 5,
+      "registro": 18
+    }
+  ]
+}
